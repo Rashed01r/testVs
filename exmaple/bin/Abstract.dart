@@ -5,6 +5,7 @@ void main() {
   coustomer.deposti(sr: 14, amount1: 11);
   coustomer.pass(pass: "aa112233");
   coustomer.userName(userName: "Rashed");
+  print("hi");
   
 }
 
