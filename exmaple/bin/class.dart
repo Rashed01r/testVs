@@ -7,6 +7,7 @@ void main() {
   print(man.beard);
   print(man.name);
   man.hi();
+  print("ADD");
 }
 
 class Human {
