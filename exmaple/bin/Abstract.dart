@@ -15,7 +15,7 @@ abstract class Bank {
 
 abstract class SaveAccount {
   pass();
-  userName();
+  userName()
 }
 
 class Coustomer extends Bank with SaveAccount {
